@@ -1,0 +1,22 @@
+div {
+	text-align: center;
+	align-content: center;
+}
+
+#title {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	font-family: 'Bilbo Swash Caps', cursive;
+	font-size: 400%;
+}
+
+hr {
+	color: black;
+	border-color: black;
+	margin-top: 1px;
+}
+.knapp {
+	border-radius: 40px;
+}
